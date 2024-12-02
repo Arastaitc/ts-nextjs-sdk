@@ -16,7 +16,7 @@ export const siteConfig = {
     github: "https://github.com/arastaitc/cloudframe",
   },
   author: {
-    name: "Selim Geçin",
-    email: "gecin18@gmail.com",
+    name: "Arasta ITC",
+    email: "Arasta@Arasta.com",
   },
 }
